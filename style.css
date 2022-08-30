@@ -1,0 +1,27 @@
+body {
+    font-family: Verdana, sans-serif;
+     margin:0;
+     background: #f88f6cb6;
+     display: grid;
+     justify-content: center;
+     align-items: center;
+     height: 100vh;
+     color: white;
+}
+.unit-converter-box{
+    background-color: #d1856c;
+    width: auto;
+    height: 300px;
+    padding: 20px 40px;
+    border-radius: 20px;
+    margin: auto;
+}
+input{
+    height: 30px;
+    width: 250px;
+    border-radius: 5px;
+    border: none;
+}
+input:focus{
+    border: none;
+}
